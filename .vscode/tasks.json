@@ -8,9 +8,9 @@
             "args": [
                 "-std=c++17",
                 "-stdlib=libc++",
-                "src/helloworld.cpp",
+                "src/main.cpp",
                 "-o",
-                "build/helloworld.out",
+                "build/main.out",
                 "--debug"
             ],
             "group": {

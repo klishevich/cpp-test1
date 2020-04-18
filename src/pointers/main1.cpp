@@ -10,6 +10,7 @@ int main()
 
     int *ptr = &myVar;
     *ptr = 20;
+    std::cout << "ptr: " << ptr << std::endl;
     std::string myString2 = "myVar: " + std::to_string(myVar);
     std::cout << myString2 << std::endl;
 

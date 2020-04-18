@@ -8,7 +8,7 @@
             "name": "(lldb) Launch",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/build/helloworld.out",
+            "program": "${workspaceFolder}/build/main.out",
             "args": [],
             "cwd": "${workspaceFolder}"
         }
